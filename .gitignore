@@ -1,0 +1,4 @@
+*.pyc
+/tfvenv
+__pycache__
+.env
