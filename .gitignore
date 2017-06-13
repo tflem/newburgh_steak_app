@@ -1,4 +1,4 @@
+tfvenv
 *.pyc
-/tfvenv
-__pycache__
+staticfiles
 .env
