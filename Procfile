@@ -1,1 +1,1 @@
-web: gunicorn newburgh_steak_app.wsgi --log-file -
+web: gunicorn newburgh_steak.wsgi --log-file -
