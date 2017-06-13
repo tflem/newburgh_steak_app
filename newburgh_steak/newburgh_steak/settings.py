@@ -66,7 +66,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'newburgh_steak.wsgi.application'
+WSGI_APPLICATION = 'newburgh_steak_app.wsgi.application'
 
 
 # Database
