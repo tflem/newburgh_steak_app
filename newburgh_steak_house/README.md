@@ -5,4 +5,4 @@ Welcome to Newburgh Steak House. This is a steak house website/blog application,
 * CSS
 * jQuery
 * PostgreSQL
-* Skeleton UI
+* Bootstrap
